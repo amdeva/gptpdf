@@ -1,0 +1,12 @@
+.cache/
+.chroma/
+.dotnet/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.ssh/
+.vscode-server/
+.~lock.doc1.docx#
+nltk_data/
